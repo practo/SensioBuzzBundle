@@ -1,5 +1,5 @@
 {
-    "name": "sensio/buzz-bundle",
+    "name": "practo/buzz-bundle",
     "description": "Bundle around the Buzz HTTP client",
     "type": "symfony-bundle",
     "keywords": ["http client", "buzz"],
@@ -13,7 +13,7 @@
     ],
     "require": {
         "php": ">=5.3.2",
-        "kriswallsmith/buzz": "dev-master"
+        "practo/buzz": "dev-master"
     },
     "target-dir": "Sensio/Bundle/BuzzBundle",
     "autoload": {
