@@ -13,7 +13,7 @@
     ],
     "require": {
         "php": ">=5.3.2",
-        "practo/buzz": "0.16"
+        "practo/buzz": "dev-master"
     },
     "repositories": [
         {
